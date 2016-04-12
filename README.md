@@ -1,2 +1,2 @@
 # MachineLearningNotebook
-My Machine learning note books in markdown.
+My Machine learning jupyter notebooks, mostly using sklearn or Tensorflow.
