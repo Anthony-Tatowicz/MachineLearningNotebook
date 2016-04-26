@@ -1,1 +1,0 @@
-{"class_name": "TensorFlowLinearClassifier", "continue_training": false, "tf_random_seed": 42, "optimizer": "SGD", "verbose": 1, "batch_size": 32, "config_addon": {"config": null}, "n_classes": 3, "keep_checkpoint_every_n_hours": 10000, "tf_master": "", "steps": 200, "learning_rate": 0.1, "max_to_keep": 5}
