@@ -1,2 +1,2 @@
 # MachineLearningNotebook
-My Machine learning jupyter notebooks, mostly using sklearn or Tensorflow.
+My Machine learning notebooks, mostly using sklearn and Tensorflow.
